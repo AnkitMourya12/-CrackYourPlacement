@@ -11,27 +11,42 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* small = new ListNode(-1);
-        ListNode* large = new ListNode(-1);
-        ListNode* small_head = small;
-        ListNode* large_head = large;
-        
-        while (head){
-            if (head->val < x){
-                small->next = head;
-                small = small -> next;
-                head = head -> next;
-                small->next = NULL;
-            }
-            else{
-                large->next = head;
-                large = large -> next;
-                head = head -> next;
-                large -> next = NULL;
-            }
+        ListNode*  t1=new ListNode (0);
+        ListNode*  t2=new ListNode (0);
+        ListNode*  tem1=t1;
+        ListNode*  tem2=t2;
+       // ListNode* p=head;
+        if(head==NULL || head->next==NULL){
+            return head;
         }
-        small -> next = large_head -> next;
+        while(head){
+            if(head->val<x){
+                t1->next=head;
+                t1=t1->next;
+                head=head->next;
+                t1->next=NULL;
+                
+            }
+            else {
+                
+             t2->next=head;
+             t2=t2->next;
+             head=head->next;
+                t2->next=NULL;
+                
+                
 
-        return small_head -> next;
+                
+                
+            }
+           
+        }
+
+        t1->next=tem2->next;
+        return tem1->next;
+
+
+        
     }
+
 };
