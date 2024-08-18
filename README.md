@@ -18,4 +18,20 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
+## Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
