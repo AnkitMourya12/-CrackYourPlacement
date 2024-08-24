@@ -39,8 +39,21 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
