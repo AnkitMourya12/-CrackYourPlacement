@@ -19,6 +19,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
 ## Tree
 |  |
@@ -66,4 +67,12 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
