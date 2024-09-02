@@ -18,6 +18,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
 ## Tree
 |  |
@@ -39,6 +40,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
