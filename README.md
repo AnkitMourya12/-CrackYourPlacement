@@ -30,10 +30,12 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 ## Binary Tree
 |  |
@@ -91,4 +93,12 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
