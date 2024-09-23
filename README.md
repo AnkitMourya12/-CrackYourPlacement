@@ -31,11 +31,13 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 ## Binary Tree
 |  |
@@ -47,12 +49,14 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +101,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
