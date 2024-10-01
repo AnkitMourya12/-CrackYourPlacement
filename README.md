@@ -41,6 +41,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,11 +55,13 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
