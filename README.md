@@ -22,6 +22,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +70,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,4 +115,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
