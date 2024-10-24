@@ -31,6 +31,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
@@ -38,6 +39,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0207-course-schedule) |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
@@ -119,6 +121,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
@@ -126,4 +129,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
