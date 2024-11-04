@@ -14,6 +14,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -97,6 +98,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 ## String Matching
 |  |
 | ------- |
@@ -133,4 +135,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
