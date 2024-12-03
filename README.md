@@ -102,6 +102,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
@@ -112,6 +113,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
+| [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 ## Recursion
