@@ -60,6 +60,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
@@ -112,6 +113,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
