@@ -67,6 +67,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
@@ -107,6 +108,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## String Matching
 |  |
 | ------- |
@@ -122,6 +124,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Recursion
 |  |
 | ------- |
