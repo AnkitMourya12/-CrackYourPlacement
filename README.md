@@ -61,6 +61,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
@@ -119,6 +120,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -158,4 +160,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
