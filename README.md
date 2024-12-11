@@ -71,6 +71,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3429-special-array-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3429-special-array-i) |
 ## Matrix
 |  |
 | ------- |
