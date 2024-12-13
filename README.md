@@ -128,6 +128,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
+| [0688-knight-probability-in-chessboard](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
 | [0911-profitable-schemes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0911-profitable-schemes) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
