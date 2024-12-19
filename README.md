@@ -65,6 +65,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0911-profitable-schemes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0911-profitable-schemes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
@@ -172,6 +173,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Sorting
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Topological Sort
 |  |
@@ -207,6 +209,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Greedy
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
@@ -215,9 +218,11 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
