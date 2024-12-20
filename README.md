@@ -31,6 +31,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -50,10 +52,12 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Array
 |  |
 | ------- |
