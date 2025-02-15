@@ -25,6 +25,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
+| [0151-reverse-words-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Tree
@@ -123,6 +124,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
