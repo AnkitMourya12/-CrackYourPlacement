@@ -79,6 +79,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -103,6 +104,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
+| [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
@@ -132,6 +134,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1517-restore-the-array) |
