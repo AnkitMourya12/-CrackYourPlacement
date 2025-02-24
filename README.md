@@ -81,6 +81,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -201,6 +202,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -238,6 +240,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
+| [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
