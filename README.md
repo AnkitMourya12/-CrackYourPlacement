@@ -8,6 +8,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
