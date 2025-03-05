@@ -15,6 +15,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -157,6 +158,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
@@ -182,6 +184,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 ## Union Find
