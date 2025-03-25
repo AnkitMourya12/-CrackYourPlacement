@@ -79,6 +79,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0354-russian-doll-envelopes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0911-profitable-schemes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0911-profitable-schemes) |
@@ -224,6 +225,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
+| [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 ## Queue
 |  |
 | ------- |
@@ -239,6 +241,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [2868-continuous-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -280,4 +283,12 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
