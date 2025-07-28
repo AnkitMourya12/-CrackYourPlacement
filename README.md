@@ -24,6 +24,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
@@ -65,6 +66,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
@@ -205,6 +207,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
