@@ -1,17 +1,22 @@
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-    int k=0;
-    int n=nums.size();
-    for(int i=0;i<nums.size();i++){
-        if(nums[i]==val){
-            nums[i]=0;
-            k++;
+       int i=0;
+       int j=nums.size()-1;
+        
+        while(i<=j){
+            if(nums[j]==val){
+                j--;
+            }
+            else if(nums[i]==val){
+                swap(nums[i],nums[j]);
+                i++;
+                j--;
+            }
+            else i++;
         }
-    }
-   sort(nums.begin(),nums.end());
-   reverse(nums.begin(),nums.end());
-return n-k;
+        return j+1;
+
         
     }
 };
