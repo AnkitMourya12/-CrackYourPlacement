@@ -71,6 +71,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -139,6 +140,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0046-permutations) |
 ## String
 |  |
 | ------- |
