@@ -88,6 +88,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0911-profitable-schemes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0911-profitable-schemes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
@@ -177,6 +178,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0516-longest-palindromic-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0516-longest-palindromic-subsequence) |
 | [0688-knight-probability-in-chessboard](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0688-knight-probability-in-chessboard) |
 | [0911-profitable-schemes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0911-profitable-schemes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
@@ -300,4 +302,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
