@@ -93,6 +93,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
+| [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
@@ -123,6 +124,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
@@ -155,6 +157,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
