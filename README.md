@@ -8,12 +8,14 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
@@ -199,6 +201,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
