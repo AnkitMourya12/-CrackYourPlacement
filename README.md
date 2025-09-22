@@ -9,6 +9,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0086-partition-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -255,6 +256,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
@@ -296,6 +298,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -320,4 +323,8 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
