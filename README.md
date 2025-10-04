@@ -28,6 +28,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
@@ -72,6 +73,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0027-remove-element) |
@@ -278,6 +280,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
