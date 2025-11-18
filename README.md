@@ -92,6 +92,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0354-russian-doll-envelopes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0729-my-calendar-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
