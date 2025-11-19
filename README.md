@@ -110,6 +110,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -136,6 +137,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -237,6 +239,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Topological Sort
 |  |
@@ -248,6 +251,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
