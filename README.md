@@ -138,6 +138,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
@@ -154,6 +155,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -177,6 +179,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 ## String Matching
@@ -337,6 +340,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Merge Sort
 |  |
 | ------- |
