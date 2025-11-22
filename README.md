@@ -24,6 +24,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2868-continuous-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2868-continuous-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3429-special-array-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
