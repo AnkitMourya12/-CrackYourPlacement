@@ -107,6 +107,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -207,6 +208,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1517-restore-the-array) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
@@ -246,6 +248,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0354-russian-doll-envelopes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0354-russian-doll-envelopes) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Topological Sort
@@ -296,6 +299,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0011-container-with-most-water](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0759-set-intersection-size-at-least-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 ## Counting
 |  |
