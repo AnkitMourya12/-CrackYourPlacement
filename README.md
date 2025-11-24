@@ -103,6 +103,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
@@ -346,6 +347,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Merge Sort
 |  |
