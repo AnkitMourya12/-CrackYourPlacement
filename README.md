@@ -23,6 +23,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -140,6 +141,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0833-bus-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0833-bus-routes) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1044-find-common-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
