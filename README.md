@@ -118,6 +118,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2868-continuous-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -130,6 +131,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0064-minimum-path-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +218,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1517-restore-the-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1517-restore-the-array) |
 | [1680-count-all-possible-routes](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1680-count-all-possible-routes) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2562-count-ways-to-build-good-strings) |
 ## Recursion
 |  |
