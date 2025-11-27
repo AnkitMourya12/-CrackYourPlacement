@@ -122,6 +122,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2868-continuous-subarrays](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2868-continuous-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3429-special-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
@@ -151,6 +152,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +166,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0560-subarray-sum-equals-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
