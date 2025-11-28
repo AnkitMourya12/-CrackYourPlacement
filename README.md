@@ -45,6 +45,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0871-keys-and-rooms](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0871-keys-and-rooms) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
