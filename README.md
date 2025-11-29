@@ -26,6 +26,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1015-smallest-integer-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -126,6 +127,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3429-special-array-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3429-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
