@@ -89,6 +89,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0049-group-anagrams](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
@@ -142,6 +143,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
@@ -242,6 +244,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 ## Graph
