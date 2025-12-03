@@ -1,23 +1,26 @@
 class Solution {
 public:
-    #define ll long long
+    int m=1e9+7;
     int countTrapezoids(vector<vector<int>>& points) {
-        unordered_map<int, int> um;
-        for(vector<int> point: points) {
-            ++um[point[1]];
+    unordered_map<int,int>mp;
+
+        for(auto & point:points){
+            int y=point[1];
+            mp[y]++;
         }
-        ll MOD = 1e9 + 7;
-        ll sum = 0;
-        ll ans = 0;
-        for(auto itr: um) {
-            ll val = (1LL * itr.second * (itr.second - 1) / 2) % MOD;
-            if(val > 0){
-                ans += sum * val % MOD;
-                sum += val;
-                sum %= MOD;
-                ans %= MOD;
-            }
+        long long res=0;
+        //long long horizontalLine=0;
+        long long previousCountOfHorizontalLine=0;
+
+        for(auto &it:mp){
+            int count=it.second;
+            
+            long long horizontalLine= (long long)count * (count-1)/2;
+            res+=horizontalLine*previousCountOfHorizontalLine;
+            previousCountOfHorizontalLine+=horizontalLine;
+
+
         }
-        return ans;
+        return res%m;
     }
 };
