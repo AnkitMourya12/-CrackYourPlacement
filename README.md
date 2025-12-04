@@ -200,6 +200,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [1517-restore-the-array](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2211-count-collisions-on-a-road) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 ## String Matching
@@ -280,6 +281,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
@@ -332,6 +334,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0983-validate-stack-sequences](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2211-count-collisions-on-a-road](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2211-count-collisions-on-a-road) |
 ## Monotonic Stack
 |  |
 | ------- |
