@@ -132,6 +132,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [3429-special-array-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3429-special-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3583-count-special-triplets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
 ## Matrix
 |  |
@@ -162,6 +163,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [2429-design-a-food-rating-system](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3623-count-number-of-trapezoids-i) |
 ## Sliding Window
 |  |
@@ -328,6 +330,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
+| [3583-count-special-triplets](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/3583-count-special-triplets) |
 ## Stack
 |  |
 | ------- |
