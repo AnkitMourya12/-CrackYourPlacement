@@ -19,6 +19,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0279-perfect-squares) |
 | [0592-fraction-addition-and-subtraction](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
@@ -90,6 +91,7 @@ https://www.proelevate.in/dsa-practice/arsh-dsa-sheet
 | [0048-rotate-image](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/AnkitMourya12/-CrackYourPlacement/tree/master/0198-house-robber) |
